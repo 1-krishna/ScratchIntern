@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item android:title="Logout"
+    android:icon="@drawable/ic_profile"
+    android:id="@+id/overflow_logout"/>
+  <item android:title="Edit Profile"
+    android:id="@+id/overflow_edit_profile"/>
+</menu>
